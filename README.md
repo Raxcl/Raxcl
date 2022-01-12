@@ -1,4 +1,8 @@
 ### Hi there 👋
+[![Raxcl's GitHub stats](https://github-readme-stats.vercel.app/api?username=raxcl)](https://github.com/anuraghazra/github-readme-stats)
+and  
+![Raxcl's GitHub stats](https://github-readme-stats.vercel.app/api?username=raxcl)
+[![Raxcl's GitHub stats](https://github-readme-stats.vercel.app/api?username=raxcl)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Raxcl/Raxcl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
