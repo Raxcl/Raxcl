@@ -1,4 +1,10 @@
 ### Hi there 👋
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">A little more about me...
+
+- 🌎 Find me around the web: [Raxcl's Blog](https://raxcl.cn)
+- 📫 Reach me asap: [Email](raxcl@qq.com)
+- :heart::icecream::strawberry::milk_glass::ping_pong::video_game::computer::musical_note:
+- 
 
 ![](https://img.shields.io/badge/Java-orange?style=flat&logo=java) ![](https://img.shields.io/badge/Python-yellow?style=flat&logo=python) ![](https://img.shields.io/badge/React-red?style=flat&logo=React) ![](https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql&logoColor=black) ![](https://img.shields.io/badge/Spring-grey?style=flat&logo=spring) ![](https://img.shields.io/badge/Vue.js-black?style=flat&logo=vue.js)
 
