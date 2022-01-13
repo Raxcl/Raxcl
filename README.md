@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+![](https://img.shields.io/badge/Java-orange?style=flat&logo=java) ![](https://img.shields.io/badge/Python-yellow?style=flat&logo=python) ![](https://img.shields.io/badge/React-red?style=flat&logo=React) ![](https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql&logoColor=black) ![](https://img.shields.io/badge/Spring-grey?style=flat&logo=spring) ![](https://img.shields.io/badge/Vue.js-black?style=flat&logo=vue.js)
+
 <img height="130px" src="https://github-readme-stats.vercel.app/api?username=raxcl&hide_tittle=true&hide=issues&theme=graywhite&show_icons=true&bg_color=45,ff7979,ffd479,fffc79,73fa79"><img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=raxcl&layout=compact&theme=graywhite&bg_color=45,F7F7F7,FFFFFF,00FAFA,696969">
 
 
