@@ -1,7 +1,6 @@
 ### Hi there 👋
-[![Raxcl's GitHub stats](https://github-readme-stats.vercel.app/api?username=raxcl&hide=issues&show_icons=true&bg_color=45,ff7979,ffd479,fffc79,73fa79)](https://github.com/Raxcl)
+<img height="130px" src="https://github-readme-stats.vercel.app/api?username=raxcl&hide_tittle=true&hide=issues&theme=graywhite&show_icons=true&bg_color=45,ff7979,ffd479,fffc79,73fa79"><img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=raxcl&layout=compact&theme=graywhite&bg_color=45,F7F7F7,FFFFFF,00FAFA,696969">
 
-[![Raxcl's GitHub stats](https://github-readme-stats.vercel.app/api/pin?username=raxcl&repo=RBlog&theme=great-gatsby)](https://github.com/Raxcl)
 
 <!--
 **Raxcl/Raxcl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
