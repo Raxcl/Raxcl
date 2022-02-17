@@ -5,7 +5,7 @@
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">A little more about me...
 
 - 🌎 Find me around the web: [Raxcl's Blog](https://raxcl.cn)
-- 📫 Reach me asap: [Email](raxcl@qq.com)
+- 📫 Reach me asap: raxcl@qq.com
 - 🛢 &#160; Look at my article: [CSDN](https://blog.csdn.net/RAXCL)
 - :heart::icecream::strawberry::milk_glass::ping_pong::video_game::computer::musical_note:
 
