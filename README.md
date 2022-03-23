@@ -1,8 +1,8 @@
 <h2 align="center">Hi! I'm Raxcl. 👋</h2>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+<img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/Raxcl/blog-resource/github/pusheencode.gif" />
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">A little more about me...
+### <img src="https://cdn.jsdelivr.net/gh/Raxcl/blog-resource/github/cat.gif" width="50">A little more about me...
 
 - 🌎 Find me around the web: [Raxcl's Blog](https://raxcl.cn)
 - 📫 Reach me asap: raxcl@qq.com
