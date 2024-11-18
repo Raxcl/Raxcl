@@ -16,3 +16,8 @@
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
 <img height="130px" src="https://github-readme-stats.vercel.app/api?username=raxcl&hide_title=true&hide=issues&theme=graywhite&show_icons=true&bg_color=45,ff7979,ffd479,fffc79,73fa79"><img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=raxcl&hide_title=true&layout=compact&theme=graywhite&bg_color=45,F7F7F7,FFFFFF,00FAFA,696969">
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/suiyun39/suiyun39/master/Tairitsu.png" width="350">
+  <img src="https://github-readme-stats.vercel.app/api?username=suiyun39&show_icons=true&count_private=true&line_height=30" width="56%" height="350">
+</p>
